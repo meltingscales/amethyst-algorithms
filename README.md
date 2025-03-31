@@ -1,0 +1,2 @@
+# amethyst-algorithms
+stub
